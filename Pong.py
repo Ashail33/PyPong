@@ -1,7 +1,7 @@
 """
 Created on Thu Apr 20 21:38:18 2017
 
-@author: Ashail Maharaj
+@author: Ashail
 """
 
 from __future__ import division
